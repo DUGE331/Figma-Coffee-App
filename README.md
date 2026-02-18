@@ -1,4 +1,4 @@
-![Frame4](https://github.com/user-attachments/assets/1c5c1c09-2243-402e-9174-08fbd161fa6e)# Coffee Snob — UI/UX Concept
+# Coffee Snob — UI/UX Concept
 
 This is a **UI/UX design concept** for a coffee ordering app created in **Figma** as part of a group project.  
 It demonstrates my experience with layout, prototyping, and user interface design.
@@ -20,8 +20,10 @@ Storyboard:
 
 ![Frame1](https://github.com/user-attachments/assets/b7b9b26b-a2ed-424f-a949-8e1b626d8a07)
 ![Frame1](https://github.com/user-attachments/assets/134044ec-9a17-41ca-bda6-3818550a1521)
+![Frame4](https://github.com/user-attachments/assets/1c5c1c09-2243-402e-9174-08fbd161fa6e)
 
 Planning in low fedility:
 ![Cafe_info1](https://github.com/user-attachments/assets/3c8f7959-7ec7-4b49-993a-fe27ae617ac2)
+
 
 
